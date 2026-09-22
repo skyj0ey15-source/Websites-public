@@ -1,0 +1,10 @@
+{
+  "name": "websites-public",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statische HTML-Landingpages, kein Build-Schritt erforderlich.",
+  "scripts": {
+    "build": "echo \"Statische Seite - kein Build noetig\"",
+    "start": "echo \"Statische Seite - keine Node-Laufzeit noetig\""
+  }
+}

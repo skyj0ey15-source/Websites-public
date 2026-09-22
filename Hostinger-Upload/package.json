@@ -1,0 +1,10 @@
+{
+  "name": "colostrum-landingpage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Statische HTML-Landingpage (index.html), kein Build-Schritt erforderlich.",
+  "scripts": {
+    "build": "echo \"Statische Seite - kein Build noetig\"",
+    "start": "echo \"Statische Seite - keine Node-Laufzeit noetig\""
+  }
+}
